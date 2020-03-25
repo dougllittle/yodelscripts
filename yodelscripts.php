@@ -1,9 +1,9 @@
 <?php 
 /**
 * Plugin Name: Yodel Scripts
-* Description: Simple Echo Scripts To CE Header
+* Description: Simple Echo Scripts from WP Backend to Header or Footer
 * Version: 0.1.0
-* Author: OIT Design & Web Services
+* Author: Doug Little
 * Text Domain: ce-add-scripts
 */
 
